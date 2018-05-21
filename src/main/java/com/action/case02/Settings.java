@@ -3,11 +3,8 @@ package com.action.case02;
 import com.action.common.LoginUI;
 import com.action.common.Print;
 import com.page.HomePage;
-import com.page.LoginPage;
 import com.page.SettingsPage;
 import org.openqa.selenium.WebDriver;
-
-import java.util.Set;
 
 import static org.testng.AssertJUnit.assertEquals;
 

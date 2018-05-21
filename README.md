@@ -1,10 +1,10 @@
-# discoverQA Automation Frameworks
+# JST-automation Automation Frameworks
 
 This automation frameworks was design by Java+Selenium+TestNG
 
 **directory structure**
 ```
-├──discoverQA
+├──JST-automation
 |   ├── src
 |   |   └── main
 |   |   |   └── java
@@ -37,9 +37,9 @@ This automation frameworks was design by Java+Selenium+TestNG
 5. testng.xml: test suit file, config all verify test case in this file.<br />
 6. pom.xml: configuration need package files.
 
-#### Get clone discoverQA
+#### Get clone JST-automation
 ``` bash
-$ git clone https://github.com/XianpengShen/discoverQA.git
+$ git clone https://github.com/XianpengShen/JST-automation.git
 ```
 
-Any suggestion and question please feel free to create issue [here](https://github.com/XianpengShen/discoverQA/issues)
+Any suggestion and question please feel free to create issue [here](https://github.com/XianpengShen/JST-automation/issues)

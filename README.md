@@ -39,7 +39,7 @@ This automation frameworks was design by Java+Selenium+TestNG
 
 #### Get clone JST-automation
 ``` bash
-$ git clone https://github.com/XianpengShen/JST-automation.git
+$ git clone git@github.com:shenxianpeng/JST-automation.git
 ```
 
-Any suggestion and question please feel free to create issue [here](https://github.com/XianpengShen/JST-automation/issues)
+Any suggestion and question please feel free to create issue [here](https://github.com/shenxianpeng/JST-automation/issues)
